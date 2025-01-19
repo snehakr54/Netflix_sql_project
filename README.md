@@ -14,7 +14,7 @@ problems, solutions, findings and conclusions.
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
     Dataset link: https://github.com/snehakr54/Netflix_sql_project/blob/main/Netflix_data.zip
-## Schema
+###Schema
 --Netflix project
 CREATE table netflix
 (
